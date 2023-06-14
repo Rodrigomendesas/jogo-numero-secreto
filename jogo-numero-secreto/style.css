@@ -37,6 +37,7 @@ h3 {
 
 p {
     font-size: 1.5em;
+    margin: 1em;
 }
 
 .mensagem {
@@ -64,3 +65,6 @@ p {
     cursor:pointer;
 }
 
+.instrucoes {
+    font-size: 0.75em;
+}
